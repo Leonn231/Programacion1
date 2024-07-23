@@ -1,0 +1,1386 @@
+Index: src/Ints/SegundoEjemplo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Ints/SegundoEjemplo.java b/src/Ints/SegundoEjemplo.java
+new file mode 100644
+--- /dev/null	(date 1721771268134)
++++ b/src/Ints/SegundoEjemplo.java	(date 1721771268134)
+@@ -0,0 +1,8 @@
++package Ints;
++
++public class SegundoEjemplo {
++    public static void main(String[] args) {
++        int siglo = 21;
++        System.out.println("El siglo actual es: " + siglo);
++    }
++}
+Index: src/Ints/PrimerEjemplo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Ints/PrimerEjemplo.java b/src/Ints/PrimerEjemplo.java
+new file mode 100644
+--- /dev/null	(date 1721771268118)
++++ b/src/Ints/PrimerEjemplo.java	(date 1721771268118)
+@@ -0,0 +1,8 @@
++package Ints;
++
++public class PrimerEjemplo {
++    public static void main(String[] args) {
++        int Edad = 25;
++        System.out.println("Edad:" + Edad);
++    }
++}
+Index: src/Ints/TercerEjemplo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Ints/TercerEjemplo.java b/src/Ints/TercerEjemplo.java
+new file mode 100644
+--- /dev/null	(date 1721771854857)
++++ b/src/Ints/TercerEjemplo.java	(date 1721771854857)
+@@ -0,0 +1,8 @@
++package Ints;
++
++public class TercerEjemplo {
++    public static void main(String[] args) {
++        int Estudiantes = 30;
++        System.out.println("Cantidad de estudiantes = " + Estudiantes);
++    }
++}
+Index: src/Doubles/Ejemplo2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Doubles/Ejemplo2.java b/src/Doubles/Ejemplo2.java
+new file mode 100644
+--- /dev/null	(date 1721771854849)
++++ b/src/Doubles/Ejemplo2.java	(date 1721771854849)
+@@ -0,0 +1,8 @@
++package Doubles;
++
++public class Ejemplo2 {
++    public static void main(String[] args) {
++        double estatura = 1.76;
++        System.out.println("Estatura = " + estatura + "metros");
++    }
++}
+Index: src/Doubles/Ejemplo1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Doubles/Ejemplo1.java b/src/Doubles/Ejemplo1.java
+new file mode 100644
+--- /dev/null	(date 1721771854878)
++++ b/src/Doubles/Ejemplo1.java	(date 1721771854878)
+@@ -0,0 +1,8 @@
++package Doubles;
++
++public class Ejemplo1 {
++    public static void main(String[] args) {
++        double IngresosSalariales= 2500.50;
++        System.out.println("Ingresos salariales = " + IngresosSalariales);
++    }
++}
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1721055595769)
++++ b/.idea/modules.xml	(date 1721055595769)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/seguimiento 1.iml" filepath="$PROJECT_DIR$/seguimiento 1.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: src/Doubles/Ejemplo3.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Doubles/Ejemplo3.java b/src/Doubles/Ejemplo3.java
+new file mode 100644
+--- /dev/null	(date 1721771854830)
++++ b/src/Doubles/Ejemplo3.java	(date 1721771854830)
+@@ -0,0 +1,8 @@
++package Doubles;
++
++public class Ejemplo3 {
++    public static void main(String[] args) {
++        double precio = 1.900;
++        System.out.println("El precio del producto es: " + precio + "pesos");
++    }
++}
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(date 1721777210669)
++++ b/.idea/workspace.xml	(date 1721777210669)
+@@ -0,0 +1,242 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="20692bb2-7472-4c25-8374-62e7fad46b00" name="Changes" comment="">
++      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/seguimiento 1.iml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Booleanos/Puerta.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Booleanos/clima.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Booleanos/edad.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Bytes/ejemplo1.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Bytes/ejemplo2.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Bytes/ejemplo3.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Chars/Ejemplo1.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Chars/Ejemplo2.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Chars/Ejemplo3.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Doubles/Ejemplo1.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Doubles/Ejemplo2.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Doubles/Ejemplo3.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Floats/Ejemplo1.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Floats/Ejemplo2.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Floats/Ejemplo3.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/HolaMundo/HolaMundo.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/IfyElse/ejemplo.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Ints/PrimerEjemplo.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Ints/SegundoEjemplo.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Ints/TercerEjemplo.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Longs/Ejemplo1.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Longs/Ejemplo2.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Longs/Ejemplo3.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/SWITCH/Ejemplo.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Shorts/Ejemplo1.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Shorts/Ejemplo2.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Shorts/Ejemplo3.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/breakycontinue/BreakyContinue.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/ciclos/ciclo1.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/ciclos/ciclo2.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/ciclos/ciclo3.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/foreach/ejemploo.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/opTernario/programa1.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/opTernario/programa2.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/opTernario/programa3.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/opTernario/programa4.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/opTernario/programa5.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/operadores/Comparacion.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/operadores/Incremento.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/operadores/decremento.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/operadores/operadores.java" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Class" />
++      </list>
++    </option>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 2
++}</component>
++  <component name="ProjectId" id="2jHsygXKa1NExXSXe5hzyA09q1t" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Application.BreakyContinue.executor": "Run",
++    "Application.Ejemplo.executor": "Debug",
++    "Application.HolaMundo.executor": "Run",
++    "Application.Puerta.executor": "Run",
++    "Application.ciclo2.executor": "Run",
++    "Application.ciclo3.executor": "Run",
++    "Application.clima.executor": "Run",
++    "Application.edad.executor": "Run",
++    "Application.ejemplo.executor": "Run",
++    "Application.programa1.executor": "Run",
++    "Application.programa2.executor": "Run",
++    "Application.programa3.executor": "Run",
++    "Application.programa4.executor": "Run",
++    "Application.programa5.executor": "Run",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
++    "git-widget-placeholder": "master",
++    "kotlin-language-version-configured": "true",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
++    "onboarding.tips.debug.path": "C:/Users/mkrac/IdeaProjects/seguimiento 1/src/Main.java",
++    "vue.rearranger.settings.migration": "true"
++  }
++}]]></component>
++  <component name="RunManager">
++    <configuration name="Ejemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="SWITCH.Ejemplo" />
++      <module name="seguimiento 1" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="SWITCH.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="Puerta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Booleanos.Puerta" />
++      <module name="seguimiento 1" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="Booleanos.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="ciclo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="ciclo3" />
++      <module name="seguimiento 1" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="clima" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Booleanos.clima" />
++      <module name="seguimiento 1" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="Booleanos.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="edad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Booleanos.edad" />
++      <module name="seguimiento 1" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="Booleanos.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Application.ciclo3" />
++        <item itemvalue="Application.Ejemplo" />
++        <item itemvalue="Application.Puerta" />
++        <item itemvalue="Application.clima" />
++        <item itemvalue="Application.edad" />
++      </list>
++    </recent_temporary>
++  </component>
++  <component name="SharedIndexes">
++    <attachedChunks>
++      <set>
++        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
++        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
++      </set>
++    </attachedChunks>
++  </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="20692bb2-7472-4c25-8374-62e7fad46b00" name="Changes" comment="" />
++      <created>1721055594415</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1721055594415</updated>
++      <workItem from="1721055595495" duration="1000" />
++      <workItem from="1721156736656" duration="609000" />
++      <workItem from="1721748603771" duration="373000" />
++      <workItem from="1721758322930" duration="11205000" />
++    </task>
++    <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <line-breakpoint enabled="true" type="java-line">
++          <url>file://$PROJECT_DIR$/src/Main.java</url>
++          <line>11</line>
++          <option name="timeStamp" value="1" />
++        </line-breakpoint>
++        <line-breakpoint enabled="true" type="java-line">
++          <url>file://$PROJECT_DIR$/src/SWITCH/Ejemplo.java</url>
++          <line>7</line>
++          <option name="timeStamp" value="2" />
++        </line-breakpoint>
++        <line-breakpoint enabled="true" type="java-line">
++          <url>file://$PROJECT_DIR$/src/SWITCH/Ejemplo.java</url>
++          <line>34</line>
++          <option name="timeStamp" value="3" />
++        </line-breakpoint>
++        <line-breakpoint enabled="true" type="java-line">
++          <url>file://$PROJECT_DIR$/src/SWITCH/Ejemplo.java</url>
++          <line>8</line>
++          <option name="timeStamp" value="4" />
++        </line-breakpoint>
++        <line-breakpoint enabled="true" type="java-line">
++          <url>file://$PROJECT_DIR$/src/SWITCH/Ejemplo.java</url>
++          <line>14</line>
++          <option name="timeStamp" value="5" />
++        </line-breakpoint>
++        <line-breakpoint enabled="true" type="java-line">
++          <url>file://$PROJECT_DIR$/src/SWITCH/Ejemplo.java</url>
++          <line>26</line>
++          <option name="timeStamp" value="6" />
++        </line-breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
++  </component>
++</project>
+\ No newline at end of file
+Index: src/foreach/ejemploo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/foreach/ejemploo.java b/src/foreach/ejemploo.java
+new file mode 100644
+--- /dev/null	(date 1721777175731)
++++ b/src/foreach/ejemploo.java	(date 1721777175731)
+@@ -0,0 +1,11 @@
++package foreach;
++
++public class ejemploo {
++    public static void main(String[] args) {
++        int[] numeros = {1, 2, 3, 4, 5};
++
++        for (int num : numeros) {
++            System.out.println(num);
++        }
++    }
++}
+Index: src/Chars/Ejemplo2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Chars/Ejemplo2.java b/src/Chars/Ejemplo2.java
+new file mode 100644
+--- /dev/null	(date 1721771854909)
++++ b/src/Chars/Ejemplo2.java	(date 1721771854909)
+@@ -0,0 +1,8 @@
++package Chars;
++
++public class Ejemplo2 {
++    public static void main(String[] args) {
++        char simbolo = '$';
++        System.out.println("simbolo = " + simbolo);
++    }
++}
+Index: seguimiento 1.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/seguimiento 1.iml b/seguimiento 1.iml
+new file mode 100644
+--- /dev/null	(date 1721055595766)
++++ b/seguimiento 1.iml	(date 1721055595766)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: src/Chars/Ejemplo1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Chars/Ejemplo1.java b/src/Chars/Ejemplo1.java
+new file mode 100644
+--- /dev/null	(date 1721771854927)
++++ b/src/Chars/Ejemplo1.java	(date 1721771854927)
+@@ -0,0 +1,9 @@
++package Chars;
++
++public class Ejemplo1 {
++    public static void main(String[] args) {
++        char LetraInicial = 'a';
++
++        System.out.println("LetraInicial: " + LetraInicial);
++    }
++}
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1721055595881)
++++ b/.idea/vcs.xml	(date 1721055595881)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: src/breakycontinue/BreakyContinue.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/breakycontinue/BreakyContinue.java b/src/breakycontinue/BreakyContinue.java
+new file mode 100644
+--- /dev/null	(date 1721777343029)
++++ b/src/breakycontinue/BreakyContinue.java	(date 1721777343029)
+@@ -0,0 +1,15 @@
++package breakycontinue;
++
++public class BreakyContinue {
++    public static void main(String[] args) {
++        for (int i = 0; i < 10; i++) {
++            if (i == 5) {
++                break; // Termina el ciclo cuando i es 5
++            }
++            if (i % 2 == 0) {
++                continue; // Salta el resto del ciclo si i es par
++            }
++            System.out.println(i);
++        }
++    }
++}
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1721055595820)
++++ b/.idea/misc.xml	(date 1721055595820)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="openjdk-22" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: src/Chars/Ejemplo3.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Chars/Ejemplo3.java b/src/Chars/Ejemplo3.java
+new file mode 100644
+--- /dev/null	(date 1721771854891)
++++ b/src/Chars/Ejemplo3.java	(date 1721771854891)
+@@ -0,0 +1,8 @@
++package Chars;
++
++public class Ejemplo3 {
++    public static void main(String[] args) {
++        char letra = 'x';
++        System.out.println("Letra: " + letra);
++    }
++}
+Index: src/Longs/Ejemplo2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Longs/Ejemplo2.java b/src/Longs/Ejemplo2.java
+new file mode 100644
+--- /dev/null	(date 1721772006651)
++++ b/src/Longs/Ejemplo2.java	(date 1721772006651)
+@@ -0,0 +1,8 @@
++package Longs;
++
++public class Ejemplo2 {
++    public static void main(String[] args) {
++        long TierraSol = 149600000000L;
++        System.out.println("Distancia de la tierra al sol: " + TierraSol + "m");
++    }
++}
+Index: src/Longs/Ejemplo1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Longs/Ejemplo1.java b/src/Longs/Ejemplo1.java
+new file mode 100644
+--- /dev/null	(date 1721771923624)
++++ b/src/Longs/Ejemplo1.java	(date 1721771923624)
+@@ -0,0 +1,8 @@
++package Longs;
++
++public class Ejemplo1 {
++    public static void main(String[] args) {
++        long poblacion = 3890000L;
++        System.out.println("Población que hay en el mundo: " + poblacion);
++    }
++}
+Index: src/Longs/Ejemplo3.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Longs/Ejemplo3.java b/src/Longs/Ejemplo3.java
+new file mode 100644
+--- /dev/null	(date 1721772093187)
++++ b/src/Longs/Ejemplo3.java	(date 1721772093187)
+@@ -0,0 +1,8 @@
++package Longs;
++
++public class Ejemplo3 {
++    public static void main(String[] args) {
++        long Estrellas = 1000000000L;
++        System.out.println("Cantidad de estrellas en el cielo: " + Estrellas);
++    }
++}
+Index: src/Floats/Ejemplo2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Floats/Ejemplo2.java b/src/Floats/Ejemplo2.java
+new file mode 100644
+--- /dev/null	(date 1721772152629)
++++ b/src/Floats/Ejemplo2.java	(date 1721772152629)
+@@ -0,0 +1,8 @@
++package Floats;
++
++public class Ejemplo2 {
++    public static void main(String[] args) {
++        float velocidad = 123.45f;
++        System.out.println("Velocidad: " + velocidad + " km/h");
++    }
++}
+Index: src/Booleanos/edad.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Booleanos/edad.java b/src/Booleanos/edad.java
+new file mode 100644
+--- /dev/null	(date 1721759184228)
++++ b/src/Booleanos/edad.java	(date 1721759184228)
+@@ -0,0 +1,19 @@
++package Booleanos;
++
++public class edad {
++    public static void main(String[] args) {
++        int edad = 19;
++        boolean esMayorDeEdad = edad >= 18;
++
++        if (esMayorDeEdad) {
++            System.out.println("La persona es mayor de 18");
++        }
++
++    else
++
++        {
++            System.out.println("La persona no es mayor de 18");
++        }
++    }
++}
++/// nota: profe, yo dejo el main asi porque se me hace mucho mas sencillo y comodo usarlo directo
+\ No newline at end of file
+Index: src/HolaMundo/HolaMundo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/HolaMundo/HolaMundo.java b/src/HolaMundo/HolaMundo.java
+new file mode 100644
+--- /dev/null	(date 1721748871018)
++++ b/src/HolaMundo/HolaMundo.java	(date 1721748871018)
+@@ -0,0 +1,6 @@
++package HolaMundo;
++
++public class HolaMundo { public static void main(String[] args) {
++    System.out.println("Hola Mundo");
++ }
++}
+\ No newline at end of file
+Index: src/Floats/Ejemplo1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Floats/Ejemplo1.java b/src/Floats/Ejemplo1.java
+new file mode 100644
+--- /dev/null	(date 1721772122790)
++++ b/src/Floats/Ejemplo1.java	(date 1721772122790)
+@@ -0,0 +1,8 @@
++package Floats;
++
++public class Ejemplo1 {
++    public static void main(String[] args) {
++        float temperatura = 36.6f;
++        System.out.println("Temperatura: " + temperatura + " grados");
++    }
++}
+Index: src/Booleanos/clima.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Booleanos/clima.java b/src/Booleanos/clima.java
+new file mode 100644
+--- /dev/null	(date 1721759377272)
++++ b/src/Booleanos/clima.java	(date 1721759377272)
+@@ -0,0 +1,13 @@
++package Booleanos;
++
++public class clima {
++    public static void main(String[] args) {
++        boolean Soleado = false; //no está haciendo nada de sol.
++
++        if (Soleado) {
++            System.out.println("Está haciendo sol.");
++        } else {
++            System.out.println("No está haciendo sol.");
++        }
++    }
++}
+Index: .idea/uiDesigner.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/uiDesigner.xml b/.idea/uiDesigner.xml
+new file mode 100644
+--- /dev/null	(date 1721758534367)
++++ b/.idea/uiDesigner.xml	(date 1721758534367)
+@@ -0,0 +1,124 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Palette2">
++    <group name="Swing">
++      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
++      </item>
++      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.svg" removable="false" auto-create-binding="false" can-attach-label="true">
++        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
++        <initial-values>
++          <property name="text" value="Button" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="RadioButton" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="CheckBox" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="Label" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
++          <preferred-size width="-1" height="20" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
++      </item>
++    </group>
++  </component>
++</project>
+\ No newline at end of file
+Index: src/Floats/Ejemplo3.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Floats/Ejemplo3.java b/src/Floats/Ejemplo3.java
+new file mode 100644
+--- /dev/null	(date 1721772230804)
++++ b/src/Floats/Ejemplo3.java	(date 1721772230804)
+@@ -0,0 +1,8 @@
++package Floats;
++
++public class Ejemplo3 {
++    public static void main(String[] args) {
++        float distancia = 10.5f;
++        System.out.println("Distancia: " + distancia + "m");
++    }
++}
+Index: src/Shorts/Ejemplo2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Shorts/Ejemplo2.java b/src/Shorts/Ejemplo2.java
+new file mode 100644
+--- /dev/null	(date 1721772309012)
++++ b/src/Shorts/Ejemplo2.java	(date 1721772309012)
+@@ -0,0 +1,8 @@
++package Shorts;
++
++public class Ejemplo2 {
++    public static void main(String[] args) {
++        short temperaturaMinima = -40;
++        System.out.println("Temperatura mínima: " + temperaturaMinima + "grados");
++    }
++}
+Index: src/Booleanos/Puerta.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Booleanos/Puerta.java b/src/Booleanos/Puerta.java
+new file mode 100644
+--- /dev/null	(date 1721764083690)
++++ b/src/Booleanos/Puerta.java	(date 1721764083690)
+@@ -0,0 +1,14 @@
++package Booleanos;
++
++public class Puerta {
++    public static void main(String[] args) {
++        boolean puertaCerrada = false; // la puerta queda cerrada
++
++        if (puertaCerrada) {
++            System.out.println("La puerta está cerrada.");
++        } else {
++            System.out.println("La puerta está abierta .");
++        }
++        // use if y else para darle un mensaje y no dejar solo true o false
++    }
++}
+Index: src/Shorts/Ejemplo1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Shorts/Ejemplo1.java b/src/Shorts/Ejemplo1.java
+new file mode 100644
+--- /dev/null	(date 1721772261964)
++++ b/src/Shorts/Ejemplo1.java	(date 1721772261964)
+@@ -0,0 +1,8 @@
++package Shorts;
++
++public class Ejemplo1{
++    public static void main(String[] args) {
++        short numero = 32000;
++        System.out.println("Número pequeño: " + numero);
++    }
++}
+Index: src/Shorts/Ejemplo3.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Shorts/Ejemplo3.java b/src/Shorts/Ejemplo3.java
+new file mode 100644
+--- /dev/null	(date 1721772338873)
++++ b/src/Shorts/Ejemplo3.java	(date 1721772338873)
+@@ -0,0 +1,8 @@
++package Shorts;
++
++public class Ejemplo3 {
++    public static void main(String[] args) {
++        short alturaEdificio = 120;
++        System.out.println("Altura del edificio: " + alturaEdificio + "metros de altura");
++    }
++}
+Index: src/Bytes/ejemplo2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Bytes/ejemplo2.java b/src/Bytes/ejemplo2.java
+new file mode 100644
+--- /dev/null	(date 1721772417722)
++++ b/src/Bytes/ejemplo2.java	(date 1721772417722)
+@@ -0,0 +1,8 @@
++package Bytes;
++
++public class ejemplo2 {
++    public static void main(String[] args) {
++        byte DiasSemana = 7;
++        System.out.println("Número de días en una semana: " + DiasSemana);
++    }
++}
+Index: src/Bytes/ejemplo1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Bytes/ejemplo1.java b/src/Bytes/ejemplo1.java
+new file mode 100644
+--- /dev/null	(date 1721772391857)
++++ b/src/Bytes/ejemplo1.java	(date 1721772391857)
+@@ -0,0 +1,8 @@
++package Bytes;
++
++public class ejemplo1 {
++    public static void main(String[] args) {
++        byte edad = 25;
++        System.out.println("Edad: " + edad);
++    }
++}
+Index: src/operadores/operadores.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/operadores/operadores.java b/src/operadores/operadores.java
+new file mode 100644
+--- /dev/null	(date 1721772683075)
++++ b/src/operadores/operadores.java	(date 1721772683075)
+@@ -0,0 +1,21 @@
++package operadores;
++
++public class operadores {
++    public static void main(String[] args) {
++        int a = 5;
++        int b = 3;
++
++        // estos son los op aritméticos
++        System.out.println("Suma: " + (a + b));
++        System.out.println("Resta: " + (a - b));
++        System.out.println("Multiplicación: " + (a * b));
++        System.out.println("División: " + (a / b));
++
++        // estos son los op lógicos
++        boolean x = true;
++        boolean y = false;
++        System.out.println("AND: " + (x && y));
++        System.out.println("OR: " + (x || y));
++        System.out.println("NOT: " + (!x));
++    }
++}
+Index: src/Bytes/ejemplo3.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Bytes/ejemplo3.java b/src/Bytes/ejemplo3.java
+new file mode 100644
+--- /dev/null	(date 1721772454952)
++++ b/src/Bytes/ejemplo3.java	(date 1721772454952)
+@@ -0,0 +1,8 @@
++package Bytes;
++
++public class ejemplo3 {
++    public static void main(String[] args) {
++        byte temperatura = -10;
++        System.out.println("Temperatura: " + temperatura + " grados");
++    }
++}
+Index: src/operadores/Incremento.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/operadores/Incremento.java b/src/operadores/Incremento.java
+new file mode 100644
+--- /dev/null	(date 1721772861264)
++++ b/src/operadores/Incremento.java	(date 1721772861264)
+@@ -0,0 +1,10 @@
++package operadores;
++
++public class Incremento {
++    public static void main(String[] args) {
++        int num = 10;
++
++        num++;
++        System.out.println("aumentado: " + num);
++    }
++}
+Index: src/operadores/Comparacion.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/operadores/Comparacion.java b/src/operadores/Comparacion.java
+new file mode 100644
+--- /dev/null	(date 1721773019474)
++++ b/src/operadores/Comparacion.java	(date 1721773019474)
+@@ -0,0 +1,12 @@
++package operadores;
++
++public class Comparacion {
++    public static void main(String[] args) {
++        int y = 5;
++        int x = 3;
++
++        System.out.println("y es mayor que x: " + (y > x));
++        System.out.println("y es igual a x: " + (y == x));
++        System.out.println("y es menor que x: " + (y < x));
++    }
++}
+Index: src/operadores/decremento.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/operadores/decremento.java b/src/operadores/decremento.java
+new file mode 100644
+--- /dev/null	(date 1721772861250)
++++ b/src/operadores/decremento.java	(date 1721772861250)
+@@ -0,0 +1,9 @@
++package operadores;
++
++public class decremento {
++    public static void main(String[] args) {
++        int num = 10;
++        num--;
++        System.out.println("reducido: " + num);
++    }
++}
+Index: src/opTernario/programa1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/opTernario/programa1.java b/src/opTernario/programa1.java
+new file mode 100644
+--- /dev/null	(date 1721774788809)
++++ b/src/opTernario/programa1.java	(date 1721774788809)
+@@ -0,0 +1,15 @@
++package opTernario;
++
++import java.util.Scanner;
++
++public class programa1 {
++    public static void main(String[] args) {
++        Scanner sc = new Scanner(System.in);
++        System.out.print("Ingrese un número: ");
++
++        int numero = sc.nextInt();
++
++        String resultado = (numero > 0) ? "El número es positivo" : (numero < 0) ? "El número es negativo" : "El número es cero";
++        System.out.println(resultado);
++    }
++}
+Index: src/opTernario/programa3.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/opTernario/programa3.java b/src/opTernario/programa3.java
+new file mode 100644
+--- /dev/null	(date 1721774585765)
++++ b/src/opTernario/programa3.java	(date 1721774585765)
+@@ -0,0 +1,21 @@
++package opTernario;
++
++import java.util.Scanner;
++
++public class programa3 {
++    public static void main(String[] args) {
++        Scanner sc = new Scanner(System.in);
++        System.out.print("Ingrese el primer número: ");
++        int num1 = sc.nextInt();
++
++        System.out.print("Ingrese el segundo número: ");
++        int num2 = sc.nextInt();
++
++        System.out.print("Ingrese el tercer número: ");
++        int num3 = sc.nextInt();
++
++        int mayor = (num1 > num2) ? (num1 > num3 ? num1 : num3) : (num2 > num3 ? num2 : num3);
++        System.out.println("El mayor de los tres números es: " + mayor);
++
++    }
++}
+Index: src/opTernario/programa2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/opTernario/programa2.java b/src/opTernario/programa2.java
+new file mode 100644
+--- /dev/null	(date 1721774706492)
++++ b/src/opTernario/programa2.java	(date 1721774706492)
+@@ -0,0 +1,14 @@
++package opTernario;
++
++import java.util.Scanner;
++
++public class programa2 {
++    public static void main(String[] args) {
++        Scanner sc = new Scanner(System.in);
++        System.out.print("Ingrese la calificación: ");
++        int calificacion = sc.nextInt();
++
++        String resultado = (calificacion >= 70) ? "Aprobado" : "Reprobado";
++        System.out.println("El estudiante está: " + resultado);
++    }
++}
+Index: src/opTernario/programa5.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/opTernario/programa5.java b/src/opTernario/programa5.java
+new file mode 100644
+--- /dev/null	(date 1721774385697)
++++ b/src/opTernario/programa5.java	(date 1721774385697)
+@@ -0,0 +1,16 @@
++package opTernario;
++
++import java.util.Scanner;
++
++public class programa5 {
++    public static void main(String[] args) {
++        Scanner sc = new Scanner(System.in);
++        System.out.println("Introduzca el primer numero");
++        int num1 = sc.nextInt();
++        System.out.println("Introduzca el segundo numero");
++        int num2 = sc.nextInt();
++        String resultado = (num1 > num2) ? "el primer numero es mayor" : "el segundo numero es mayor o son iguales";
++        System.out.println(resultado);
++
++    }
++}
+Index: src/opTernario/programa4.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/opTernario/programa4.java b/src/opTernario/programa4.java
+new file mode 100644
+--- /dev/null	(date 1721774488148)
++++ b/src/opTernario/programa4.java	(date 1721774488148)
+@@ -0,0 +1,15 @@
++package opTernario;
++
++import java.util.Scanner;
++
++public class programa4 {
++    public static void main(String[] args) {
++        Scanner sc = new Scanner(System.in);
++
++        System.out.print("Ingrese un número: ");
++        int numero = sc.nextInt();
++
++        String resultado = (numero % 2 == 0) ? "Es par" : "Es impar";
++        System.out.println(resultado);
++    }
++}
+Index: src/IfyElse/ejemplo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/IfyElse/ejemplo.java b/src/IfyElse/ejemplo.java
+new file mode 100644
+--- /dev/null	(date 1721775454264)
++++ b/src/IfyElse/ejemplo.java	(date 1721775454264)
+@@ -0,0 +1,17 @@
++package IfyElse;
++
++public class ejemplo {
++    public static void main(String[] args) {
++        int numero= 10;
++
++        if (numero > 0) {
++            System.out.println("El número es positivo");
++        } else if (numero < 0) {
++            System.out.println("El número es negativo");
++        } else {
++            System.out.println("El número es cero");
++        }
++    }
++}
++
++
+Index: src/SWITCH/Ejemplo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/SWITCH/Ejemplo.java b/src/SWITCH/Ejemplo.java
+new file mode 100644
+--- /dev/null	(date 1721775764192)
++++ b/src/SWITCH/Ejemplo.java	(date 1721775764192)
+@@ -0,0 +1,37 @@
++package SWITCH;
++
++public class Ejemplo {
++    public static void main(String[] args) {
++        int dia = 6;
++        String nombreDia;
++
++        switch (dia) {
++            case 1:
++                nombreDia = "Lunes";
++                break;
++            case 2:
++                nombreDia = "Martes";
++                break;
++            case 3:
++                nombreDia = "Miércoles";
++                break;
++            case 4:
++                nombreDia = "Jueves";
++                break;
++            case 5:
++                nombreDia = "Viernes";
++                break;
++            case 6:
++                nombreDia = "Sábado";
++                break;
++            case 7:
++                nombreDia = "Domingo";
++                break;
++            default:
++                nombreDia = "Día inválido";
++                break;
++        }
++
++        System.out.println("El día es: " + nombreDia);
++    }
++}
+\ No newline at end of file
+Index: src/ciclos/ciclo1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ciclos/ciclo1.java b/src/ciclos/ciclo1.java
+new file mode 100644
+--- /dev/null	(date 1721777033092)
++++ b/src/ciclos/ciclo1.java	(date 1721777033092)
+@@ -0,0 +1,10 @@
++package ciclos;
++
++public class ciclo1 {
++    public static void main(String[] args) {
++        for (int i = 1; i <= 5; i++) {
++            System.out.println(i);
++        }
++    }
++}
++
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+--- /dev/null	(date 1721055592201)
++++ b/.gitignore	(date 1721055592201)
+@@ -0,0 +1,29 @@
++### IntelliJ IDEA ###
++out/
++!**/src/main/**/out/
++!**/src/test/**/out/
++
++### Eclipse ###
++.apt_generated
++.classpath
++.factorypath
++.project
++.settings
++.springBeans
++.sts4-cache
++bin/
++!**/src/main/**/bin/
++!**/src/test/**/bin/
++
++### NetBeans ###
++/nbproject/private/
++/nbbuild/
++/dist/
++/nbdist/
++/.nb-gradle/
++
++### VS Code ###
++.vscode/
++
++### Mac OS ###
++.DS_Store
+\ No newline at end of file
+Index: src/ciclos/ciclo3.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ciclos/ciclo3.java b/src/ciclos/ciclo3.java
+new file mode 100644
+--- /dev/null	(date 1721776901379)
++++ b/src/ciclos/ciclo3.java	(date 1721776901379)
+@@ -0,0 +1,14 @@
++public class ciclo3 {
++    public static void main(String[] args) {
++        int i = 10;
++        System.out.println("Cuenta regresiva desde 10:");
++        while (i >= 1) {
++
++            System.out.println(i);
++            i--;
++        }
++        System.out.println("inicia el despegue");
++
++
++    }
++}
+\ No newline at end of file
+Index: src/ciclos/ciclo2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ciclos/ciclo2.java b/src/ciclos/ciclo2.java
+new file mode 100644
+--- /dev/null	(date 1721776998215)
++++ b/src/ciclos/ciclo2.java	(date 1721776998215)
+@@ -0,0 +1,11 @@
++package ciclos;
++
++public class ciclo2 {
++    public static void main(String[] args) {
++        int a = 1;
++        while (a <= 5) {
++            System.out.println(a);
++            a++;
++        }
++    }
++}

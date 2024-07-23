@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20692bb2-7472-4c25-8374-62e7fad46b00" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguimiento 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Booleanos/Puerta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Booleanos/clima.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Booleanos/edad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bytes/ejemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bytes/ejemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bytes/ejemplo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chars/Ejemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chars/Ejemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chars/Ejemplo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doubles/Ejemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doubles/Ejemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doubles/Ejemplo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Floats/Ejemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Floats/Ejemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Floats/Ejemplo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HolaMundo/HolaMundo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfyElse/ejemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ints/PrimerEjemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ints/SegundoEjemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ints/TercerEjemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Longs/Ejemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Longs/Ejemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Longs/Ejemplo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWITCH/Ejemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shorts/Ejemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shorts/Ejemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shorts/Ejemplo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/breakycontinue/BreakyContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ciclos/ciclo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ciclos/ciclo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ciclos/ciclo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/foreach/ejemploo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opTernario/programa1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opTernario/programa2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opTernario/programa3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opTernario/programa4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opTernario/programa5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operadores/Comparacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operadores/Incremento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operadores/decremento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operadores/operadores.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2jHsygXKa1NExXSXe5hzyA09q1t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BreakyContinue.executor": "Run",
+    "Application.Ejemplo.executor": "Debug",
+    "Application.HolaMundo.executor": "Run",
+    "Application.Puerta.executor": "Run",
+    "Application.ciclo2.executor": "Run",
+    "Application.ciclo3.executor": "Run",
+    "Application.clima.executor": "Run",
+    "Application.edad.executor": "Run",
+    "Application.ejemplo.executor": "Run",
+    "Application.programa1.executor": "Run",
+    "Application.programa2.executor": "Run",
+    "Application.programa3.executor": "Run",
+    "Application.programa4.executor": "Run",
+    "Application.programa5.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/mkrac/IdeaProjects/seguimiento 1/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Ejemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWITCH.Ejemplo" />
+      <module name="seguimiento 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SWITCH.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Puerta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Booleanos.Puerta" />
+      <module name="seguimiento 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Booleanos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ciclo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ciclo3" />
+      <module name="seguimiento 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clima" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Booleanos.clima" />
+      <module name="seguimiento 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Booleanos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Booleanos.edad" />
+      <module name="seguimiento 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Booleanos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ciclo3" />
+        <item itemvalue="Application.Ejemplo" />
+        <item itemvalue="Application.Puerta" />
+        <item itemvalue="Application.clima" />
+        <item itemvalue="Application.edad" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20692bb2-7472-4c25-8374-62e7fad46b00" name="Changes" comment="" />
+      <created>1721055594415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721055594415</updated>
+      <workItem from="1721055595495" duration="1000" />
+      <workItem from="1721156736656" duration="609000" />
+      <workItem from="1721748603771" duration="373000" />
+      <workItem from="1721758322930" duration="11205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWITCH/Ejemplo.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWITCH/Ejemplo.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWITCH/Ejemplo.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWITCH/Ejemplo.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWITCH/Ejemplo.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
